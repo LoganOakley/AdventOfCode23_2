@@ -1,3 +1,5 @@
+package main.java.site;
+
 public class Pull {
     public int redCount;
     public int greenCount;
